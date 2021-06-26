@@ -1,0 +1,2 @@
+
+        // Configures puppeteer
